@@ -1,2 +1,2 @@
 # Discord-Bot
-Kodzimy pierwszego bota na discord w .py
+Licencja wolna - chcesz korzystaj i tak jest tego pełno w internecie! :D
